@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 👨‍🎓 I’m student of Computer Engineering<br>🌱 I’m currently learning Python<br>
 
 
